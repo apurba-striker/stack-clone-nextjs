@@ -44,13 +44,13 @@ Slack clone is a powerful team collaboration platform that allows you to communi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/adeolaadeoti/slack-clone-client.git
+   git clone https://github.com/apurba-striker/stack-clone-nextjs.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd slack-clone-client
+   cd stack-clone-nextjs
    ```
 
 3. Install dependencies:
