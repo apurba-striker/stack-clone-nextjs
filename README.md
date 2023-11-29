@@ -1,6 +1,6 @@
 # Slack Clone Client Repository
 
-- Api repository https://github.com/adeolaadeoti/slack-clone-api
+- Api repository https://github.com/apurba-striker/stack-clone-nextjs
 
 ## Table of Contents
 
