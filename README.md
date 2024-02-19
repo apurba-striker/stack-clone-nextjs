@@ -1,6 +1,6 @@
 # Slack Clone Client Repository
 
-- Api repository https://github.com/apurba-striker/stack-clone-nextjs
+- Api repository https://github.com/adeolaadeoti/slack-clone-api
 
 ## Table of Contents
 
@@ -44,13 +44,13 @@ Slack clone is a powerful team collaboration platform that allows you to communi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/apurba-striker/stack-clone-nextjs.git
+   git clone https://github.com/adeolaadeoti/slack-clone-client.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd stack-clone-nextjs
+   cd slack-clone-client
    ```
 
 3. Install dependencies:
